@@ -9,3 +9,5 @@ Es perfecto para la concienciación a usuarios, ya que no contiene ningún tipo 
 Además, al ser tan simple, los antivirus no lo detectan y puede usarse sin ningún tipo de problema, que es lo que se busco en un principio a la hora de desarrollar el script.
 
 <h2>Ejemplo de ejecución</h2>
+
+![Ejecucion](/img/ejecucion.gif)
