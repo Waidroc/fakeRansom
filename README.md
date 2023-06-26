@@ -11,3 +11,8 @@ Además, al ser un script tan simple, los antivirus no lo detectan y puede usars
 <h2>Ejemplo de ejecución</h2>
 
 ![Ejecucion](/img/ejecucion.gif)
+
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/waidrocx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
